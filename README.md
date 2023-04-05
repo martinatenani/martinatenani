@@ -1,7 +1,7 @@
 ## Who am I?
 ### Hi there 👋😃 my name is Martina
 #### *Bachelors degree in Computer Science at the University of Ferrara.*
-##### I am a front end developer based in Ferrara(IT) and in my spare time I do game programming in Unity and 3D modelling in Blender.
+##### I am a developer based in Ferrara(IT) and in my spare time I do game programming in Unity and 3D modelling in Blender.
 ---
 
 
