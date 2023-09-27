@@ -1,16 +1,23 @@
-## Who am I?
-### Hi there 👋😃 my name is Martina
-#### *Bachelors degree in Computer Science at the University of Ferrara.*
-##### I am a developer based in Ferrara(IT) and in my spare time I do game programming in Unity and 3D modelling in Blender.
----
+## Hi there 👋😃 my name is Martina
+📚 *Bachelors degree in Computer Science at the University of Ferrara.* <br>
+❓ I am a developer based in Ferrara(IT) and in my spare time I do game programming in Unity and 3D modelling in Blender. <br>
+👷‍♀️ Currently working for CLAL. <br>
+🔎 I have an interest for anything related to Computer Graphics and videogames. <br>
 
+Projects I have worked on: 
+ 🦾 A VR training implementation for Hannes ( IIT Genova in collaboration with IIT Ferrara) <br>
+ 
+🔭 Personal projects: 
+  🌙 Weapon of the Faithful - a third person shooter<br>
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=martinatenani&repo=WotF)](https://github.com/martinatenani/WotF)
 
+📫 How to reach me: ...
+  
 <!--
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=martinatenani&theme=tokyonight" alt="mystreak"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=martinatenani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> 
 
-🔎 I have an interest for anything related to computer graphics.
+
 
 - 🔭 Currently working on: 
   - A VR training implementation for Hannes ( IIT Genova in collaboration with IIT Ferrara)
@@ -37,6 +44,6 @@ You can add an image or a code block, too.
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - ⚡ Fun fact: ...
 -->
