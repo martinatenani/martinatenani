@@ -25,10 +25,8 @@ Hi there 👋😃 my name is Martina
 ### 📫 How to reach me:
 
   <p align="left"> 
-   <a href="https://www.dev.to/andreamust" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
-   <a href="https://www.github.com/andreamust" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-   <a href="https://www.linkedin.com/in/andrea-poltronieri21" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-   <a href="https://www.twitter.com/andpoltronieri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+   <a href="https://www.github.com/martinatenani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+   <a href="https://www.linkedin.com/in/martina-tenani-70aa30223" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   </p>
 <!--
 
