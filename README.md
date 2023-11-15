@@ -2,7 +2,7 @@ Hi there 👋😃 my name is Martina
 =================================
 📚 *Bachelors degree in Computer Science at the University of Ferrara.* <br>
 ❓ I am a developer based in Ferrara(IT) and in my spare time I do game programming in Unity and 3D modelling in Blender. <br>
-👷‍♀️ Currently working for CLAL. <br>
+👷‍♀️ Currently working for <a href="https://www.clal.it/" target="_blank" rel="noreferrer">CLAL.</a> <br>
 🔎 I have an interest for anything related to Computer Graphics and videogames. <br>
 
 Projects I have worked on: 
