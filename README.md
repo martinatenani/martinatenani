@@ -33,10 +33,10 @@ Hi there 👋😃 my name is Martina
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/martinatenani"><img src="https://github-readme-stats.vercel.app/api?username=martinatenani&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="martinatenani's GitHub stats" /></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=martinatenani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> 
+<p align="center"> <a href="http://www.github.com/martinatenani"><img src="https://github-readme-stats.vercel.app/api?username=martinatenani&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="martinatenani's GitHub stats" /></a></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=martinatenani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> </p>
 
-[![Andrea's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=martinatenani&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Martina's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=martinatenani&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://komarev.com/ghpvc/?username=martinatenani)
   
