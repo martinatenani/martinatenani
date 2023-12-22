@@ -21,6 +21,7 @@ Hi there 👋😃 my name is Martina
 ### 🔭 Personal projects: 
 * 🌙 Weapon of the Faithful - a third person shooter <br><br>
     [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=martinatenani&repo=WotF)](https://github.com/martinatenani/WotF)
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=martinatenani&repo=MistyIslands)](https://github.com/martinatenani/MistyIslands)
 
 ### 📫 How to reach me:
 
