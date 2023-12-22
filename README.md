@@ -20,7 +20,7 @@ Hi there 👋😃 my name is Martina
  
 ### 🔭 Personal projects: 
 * 🌙 Weapon of the Faithful - a third person shooter game. <br><br>
-* 🦊 Misty Islands - an ongoing project.
+* 🦊 Misty Islands - an ongoing project.<br><br>
     [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=martinatenani&repo=WotF)](https://github.com/martinatenani/WotF)
   
 ### 📫 How to reach me:
