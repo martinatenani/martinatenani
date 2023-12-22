@@ -19,10 +19,10 @@ Hi there 👋😃 my name is Martina
 * 🦾 A VR training implementation for Hannes ( IIT Genova in collaboration with IIT Ferrara). <br>
  
 ### 🔭 Personal projects: 
-* 🌙 Weapon of the Faithful - a third person shooter <br><br>
+* 🌙 Weapon of the Faithful - a third person shooter game. <br><br>
+* 🦊 Misty Islands - an ongoing project.
     [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=martinatenani&repo=WotF)](https://github.com/martinatenani/WotF)
-    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=martinatenani&repo=MistyIslands)](https://github.com/martinatenani/MistyIslands)
-
+  
 ### 📫 How to reach me:
 
   <p align="left"> 
