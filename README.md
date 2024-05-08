@@ -2,6 +2,8 @@ Hi there 👋😃 my name is Martina
 =================================
 🎓 *Bachelors degree in Computer Science at the University of Ferrara.*
 ------------------------------------------------------------------------------
+*My motto: "Jack of all trades master of none, but better than master of one." - I pride myself in being flexible and interested in learning something new everyday.*
+
 * ❓ I work as a front-end developer and in my spare time I do game programming in Unity and 3D modelling in Blender. <br>
 * 🌍 Currently based in Ferrara, Italy.
 * 👷‍♀️ Currently working for <a href="https://www.clal.it/" target="_blank" rel="noreferrer">CLAL.</a> <br>
