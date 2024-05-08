@@ -2,7 +2,7 @@ Hi there 👋😃 my name is Martina
 =================================
 🎓 *Bachelors degree in Computer Science at the University of Ferrara.*
 ------------------------------------------------------------------------------
-*My motto: "Jack of all trades master of none, but better than master of one." - I pride myself in being flexible and interested in learning something new everyday.*
+### *My motto: "Jack of all trades master of none but better than master of one." - I pride myself in being flexible and interested in learning something new everyday.*
 
 * ❓ I work as a front-end developer and in my spare time I do game programming in Unity and 3D modelling in Blender. <br>
 * 🌍 Currently based in Ferrara, Italy.
@@ -22,7 +22,7 @@ Hi there 👋😃 my name is Martina
  
 ### 🔭 Personal projects: 
 * 🌙 Weapon of the Faithful - a third person shooter game. <br><br>
-* 🦊 Misty Islands - an ongoing project.<br><br>
+* 🦊 Mistifyed - an ongoing project.<br><br>
     [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=martinatenani&repo=WotF)](https://github.com/martinatenani/WotF)
   
 ### 📫 How to reach me:
