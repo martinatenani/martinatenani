@@ -8,7 +8,7 @@ Hi there 👋😃 my name is Martina
 * 🌍 Currently based in Ferrara, Italy.
 * 👷‍♀️ Currently working for <a href="https://www.clal.it/" target="_blank" rel="noreferrer">CLAL.</a> <br>
 * 🔎 I have an interest for anything related to computer graphics and videogames. <br>
-* 🌱 I’m currently learning: JavaScript
+* 🌱 I’m currently learning: JavaScript and Unreal Engine
   
 ### 🤹‍♀️Skills:
 * Python
@@ -20,10 +20,13 @@ Hi there 👋😃 my name is Martina
 ### 👍Projects I have worked on: 
 * 🦾 A VR training implementation for Hannes ( IIT Genova in collaboration with IIT Ferrara). <br>
  
-### 🔭 Personal projects: 
+### 🔭 Personal gamedev projects: 
 * 🌙 Weapon of the Faithful - a third person shooter game. <br><br>
 * 🦊 Mistifyed - an ongoing project.<br><br>
     [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=martinatenani&repo=WotF)](https://github.com/martinatenani/WotF)
+
+### 🛡️ Cybersecurity repository:
+* Upcoming...
   
 ### 📫 How to reach me:
 
