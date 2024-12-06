@@ -4,10 +4,10 @@ Hi there 👋😃 my name is Martina
 ------------------------------------------------------------------------------
 ### *My motto: "Jack of all trades master of none but better than master of one." - I pride myself in being flexible and interested in learning something new everyday.*
 
-* ❓ I work as a front-end developer and in my spare time I do game programming in Unity and 3D modelling in Blender. <br>
+* ❓ I work as a full-stack developer and data analyst and in my spare time I do game programming in Unity and 3D modelling in Blender. <br>
 * 🌍 Currently based in Ferrara, Italy.
 * 👷‍♀️ Currently working for <a href="https://www.clal.it/" target="_blank" rel="noreferrer">CLAL.</a> <br>
-* 🔎 I have an interest for anything related to computer graphics and videogames. <br>
+* 🔎 I have an interest for anything related to computer graphics and videogames but I also like learning about cysec. <br>
 * 🌱 I’m currently learning: JavaScript, JQuery and Unreal Engine.
   
 ### 🤹‍♀️Skills:
@@ -25,7 +25,6 @@ Hi there 👋😃 my name is Martina
 * 🏇 I Cavalieri Elementali <br><br>
 * 🌙 Weapon of the Faithful - a third person shooter game. <br><br>
 * 🦊 Mistifyed - a fun project to test new stuff.<br><br>
-    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=martinatenani&repo=WotF)](https://github.com/martinatenani/WotF)
   
 ### 📫 How to reach me:
 
