@@ -8,15 +8,17 @@ Hi there 👋😃 my name is Martina
 * 🌍 Currently based in Ferrara, Italy.
 * 👷‍♀️ Currently working for <a href="https://www.clal.it/" target="_blank" rel="noreferrer">CLAL.</a> <br>
 * 🔎 I have an interest for anything related to computer graphics and videogames but I also like learning about cysec. <br>
-* 🌱 I’m currently studying game programming at <a href=" https://www.aiv01.it/?gad_source=1&gclid=Cj0KCQjwgrO4BhC2ARIsAKQ7zUmXVXKu--yN7rOqB-Jcb8dx9hfVCJ2fhpEFSnfjGl1Z-2gmg1R2f3kaAjFfEALw_wcB" target="_blank" rel="noreferrer">AIV.</a>
+* 🌱 I’m currently studying game programming at <a href="https://www.aiv01.it/" target="_blank" rel="noreferrer">AIV.</a> <br>
   
 ### 🤹‍♀️Skills:
 * C
-* * C#
+* C#
+* Python
 * HTML/CSS
 * SQL
 * PHP
-* Python
+
+My <a href="https://www.hackerrank.com/profile/martinatenani" target="_blank" rel="noreferrer">Hackerrank</a> profile.
 
 ### 👍Projects I have worked on:
 * 🦾 A VR training implementation for Hannes ( IIT Genova in collaboration with IIT Ferrara). <br>
