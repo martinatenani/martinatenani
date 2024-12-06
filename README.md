@@ -18,7 +18,7 @@ Hi there 👋😃 my name is Martina
 * SQL
 * PHP
 
-My <a href="https://www.hackerrank.com/profile/martinatenani" target="_blank" rel="noreferrer">Hackerrank</a> profile.
+My <a href="https://www.hackerrank.com/profile/martinatenani" target="_blank" rel="noreferrer">HackerRank</a> profile.
 
 ### 👍Projects I have worked on:
 * 🦾 A VR training implementation for Hannes ( IIT Genova in collaboration with IIT Ferrara). <br>
