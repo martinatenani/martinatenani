@@ -4,7 +4,7 @@ Hi there 👋😃 my name is Martina
 ------------------------------------------------------------------------------
 
 
-* ❓ I work as a full-stack developer and data analyst. In my spare time I do game programming in Unity and 3D modelling in Blender. <br>
+* ❓ I work as a full-stack developer and data analyst. In my spare time I do game programming in Unreal Engine and 3D modelling in Blender. <br>
 * 🌍 Currently based in Ferrara, Italy.
 * 👷‍♀️ Currently working for <a href="https://www.clal.it/" target="_blank" rel="noreferrer">CLAL.</a> <br>
 * 🌱 Currently studying game programming at <a href="https://www.aiv01.it/" target="_blank" rel="noreferrer">AIV.</a> <br>
