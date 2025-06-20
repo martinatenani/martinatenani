@@ -1,6 +1,6 @@
 Hi there 👋😃 my name is Martina
 =================================
-### *"Jack of all trades master of none but better than master of one."* <br> I pride myself in being flexible and interested in learning something new everyday.
+### *"If you only do what you can do, then you will never be better than what you are"*
 ------------------------------------------------------------------------------
 
 
