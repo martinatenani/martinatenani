@@ -9,6 +9,7 @@ Hi there 👋😃 my name is Martina
 * 👷‍♀️ Currently looking for work <br>
 * 🌱 Currently studying game programming at <a href="https://www.aiv01.it/" target="_blank" rel="noreferrer">AIV.</a> <br>
 * 🔎 I have an interest for anything related to computer graphics and videogames. <br>
+* 🤝​ Worked as a fullstack web developer and Junior Data Analyst for CLAL <br>
 * 🎓 Bachelors degree in Computer Science at the University of Ferrara (IT)
   
 ### 🤹‍♀️Skills:
