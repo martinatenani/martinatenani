@@ -6,7 +6,6 @@ Hi there 👋😃 my name is Martina
 
 * ❓ Tracing my path into the game industry <br>
 * 🌍 Currently based in Ferrara, Italy.
-* 👷‍♀️ Currently looking for work <br>
 * 🌱 Currently studying game programming at <a href="https://www.aiv01.it/" target="_blank" rel="noreferrer">AIV.</a> <br>
 * 🔎 I have an interest for anything related to computer graphics and videogames. <br>
 * 🤝​ Worked as a fullstack web developer and Junior Data Analyst for CLAL <br>
@@ -18,10 +17,10 @@ Hi there 👋😃 my name is Martina
 ### 👍Projects I have worked on:
 * 🦾 A VR training implementation for Hannes ( IIT Genova in collaboration with IIT Ferrara). <br>
 
-### 🔭 Personal gamedev projects: 
+### 🔭 Personal projects: 
 * 🏇 I Cavalieri Elementali <br>
 * 🌙 Weapon of the Faithful - a third person shooter game. <br>
-* 🦊 Mistifyed - a fun project to test new stuff.<br>
+* 🦊 Mistified - a fun project to test new stuff.<br>
 
 ![Martina's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinatenani&hide=contribs,prs&theme=radical)
   
