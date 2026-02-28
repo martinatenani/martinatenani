@@ -12,12 +12,13 @@ Hi there 👋😃 my name is Martina
 * 🎓 Bachelors degree in Computer Science at the University of Ferrara (IT)
   
 ### 🤹‍♀️Skills:
-[![My Skills](https://skillicons.dev/icons?i=c,cs,python,php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,python,php,mysql,cpp)](https://skillicons.dev)
 
 ### 👍Projects I have worked on:
 * 🦾 A VR training implementation for Hannes ( IIT Genova in collaboration with IIT Ferrara). <br>
+* 🌱 Afterglow - 2025 GameDev for AIV Games
 
-### 🔭 Personal projects: 
+### 🔭 Personal projects I am working on: 
 * 🏇 I Cavalieri Elementali <br>
 * 🌙 Weapon of the Faithful - a third person shooter game. <br>
 * 🦊 Mistified - a fun project to test new stuff.<br>
