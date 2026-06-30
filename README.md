@@ -16,12 +16,13 @@ Hi there 👋😃 my name is Martina
 
 ### 👍Projects I have worked on:
 * 🦾 A VR training implementation for Hannes ( IIT Genova in collaboration with IIT Ferrara). <br>
-* 🌱 Afterglow - 2025 GameDev for AIV Games
+* 🤠 The Arcane West - final project for AIV's second year
 
 ### 🔭 Personal projects I am working on: 
 * 🏇 I Cavalieri Elementali <br>
 * 🌙 Weapon of the Faithful - a third person shooter game. <br>
 * 🦊 Mistified - a fun project to test new stuff.<br>
+* 🌱 Afterglow - 2025 GameDev for AIV Games
 
 ![Martina's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinatenani&hide=contribs,prs&theme=radical)
   
