@@ -19,17 +19,22 @@ Hi there 👋😃 my name is Martina
 * 🤠 The Arcane West - final project for AIV's second year
 
 ### 🔭 Personal projects I am working on: 
-* 🏇 I Cavalieri Elementali <br>
-* 🌙 Weapon of the Faithful - a third person shooter game. <br>
-* 🦊 Mistified - a fun project to test new stuff.<br>
-* 🌱 Afterglow - 2025 GameDev for AIV Games
-
-![Martina's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinatenani&hide=contribs,prs&theme=radical)
+* 🌱 Afterglow - independent GameDev project
+* 🧱 The Great Wall - realtime wall generator and editor
   
 ### 📫 How to reach me:
+
   <p align="left"> 
    <a href="https://www.linkedin.com/in/martina-tenani-70aa30223" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   </p>
+
+### 🐸 My personal portfolio/blog page:
+
+  <p align="left">
+  <a href="https://martinatenani.github.io/myPortfolio/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="32" height="32" alt="Portfolio Link" />
+  </a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=martinatenani)
   
