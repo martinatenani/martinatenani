@@ -16,11 +16,13 @@ Hi there 👋😃 my name is Martina
 
 ### 👍Projects I have worked on:
 * 🦾 A VR training implementation for Hannes ( IIT Genova in collaboration with IIT Ferrara). <br>
-* 🤠 The Arcane West - final project for AIV's second year
+* 🤠 The Arcane West - final project for AIV's second year.
+* ⏲️ Participated in the GMTK2026 Game Jam.
 
 ### 🔭 Personal projects I am working on: 
 * 🌱 Afterglow - independent GameDev project
 * 🧱 The Great Wall - realtime wall generator and editor
+* ⚠️ Mayday Everyday 
   
 ### 📫 How to reach me:
 
